@@ -4,4 +4,3 @@
 
 [build.environment]
   QUARTO_VERSION = "1.6.39"
-```
