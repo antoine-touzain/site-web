@@ -1,0 +1,28 @@
+---
+title: "Antoine Touzain"
+subtitle: "Professeur agrégé de droit privé"
+image: photo.png.png
+about:
+  template: jolla
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:antoine.touzain@univ-rouen.fr
+    - icon: mortarboard
+      text: ORCID
+      href: https://orcid.org/ 	0009-0009-6291-6720
+---
+
+Professeur agrégé de droit privé à l'Université Rouen Normandie, 
+membre du CUREJ (UR 4703), je dirige le Master 2 Droit de la 
+responsabilité et des assurances de dommages (DRAD) et le 
+Département de droit.
+
+Mes travaux portent principalement sur la responsabilité civile,
+le droit des assurances, le droit des contrats spéciaux,  
+le droit de l'environnement et le droit du numérique.
+
+Directeur scientifique de l'*Encyclopédie Responsabilité civile 
+et assurances* (LexisNexis) et chargé de mission au ministère 
+de la Justice pour la réforme du droit des contrats spéciaux 
+(2024–2025).

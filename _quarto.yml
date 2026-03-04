@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Antoine Touzain"
+  description: "Professeur agrégé de droit privé, Université Rouen Normandie"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Accueil
+      - href: about.qmd
+        text: À propos
+      - href: research.qmd
+        text: Recherche
+      - href: teaching.qmd
+        text: Enseignement
+      - href: cv.qmd
+        text: CV
+    right:
+      - href: contact.qmd
+        text: Contact
+  page-footer:
+    center: "Antoine Touzain — Université Rouen Normandie"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    

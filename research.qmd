@@ -1,0 +1,34 @@
+---
+title: "Recherche / Research"
+---
+
+## Axes de recherche
+
+Mes travaux portent principalement sur quatre domaines :
+
+- **Droit des contrats spéciaux** : réforme des contrats spéciaux
+- **Droit des assurances** : risques émergents, risques climatiques
+  cyber-risques, catastrophes naturelles
+- **Droit de l'environnement** : responsabilité environnementale, 
+  devoir de vigilance, communs naturels
+- **Droit du numérique** : intelligence artificielle, cyber-risques, 
+  régulation algorithmique
+
+## Travaux en cours
+
+**Manuel de droit des contrats spéciaux** (avec V. Forti), 
+LGDJ, Lextenso, à paraître 2026.
+
+**Article sur le nouveau régime d'assurance obligatoire des émeutes** 
+(art. 171 de la loi de finances 2026), *Lexbase CRI*, à paraître.
+
+**Fascicule JurisClasseur sur les risques numériques en droit 
+des assurances**, en cours de finalisation.
+
+## Publications
+```{=html}
+<p><a href="cv.qmd" class="btn btn-outline-primary">
+Voir le CV complet</a></p>
+```
+
+*La liste complète des publications est disponible dans le CV.*
