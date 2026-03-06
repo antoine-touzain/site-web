@@ -111,6 +111,10 @@ des assurances** (avec S. Merabet), à paraître.
 
 ---
 ```{=html}
-<p><a href="touzain_publications.bib" class="btn btn-outline-primary">
-Télécharger la liste complète (BibTeX)</a></p>
+<p>
+  <a href="cv.qmd" class="btn btn-outline-primary">Voir le CV complet</a>
+  &nbsp;
+  <a href="touzain_publications.bib" class="btn btn-outline-primary">
+  Télécharger la liste complète (BibTeX)</a>
+</p>
 ```

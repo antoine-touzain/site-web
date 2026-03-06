@@ -87,3 +87,15 @@ Mention très honorable avec félicitations. Prix de thèse.
 ::: {.text-center}
 [Télécharger le CV complet (PDF)](cv_touzain.pdf)
 :::
+
+---
+```{=html}
+<p>
+  <a href="research.qmd" class="btn btn-outline-primary">Voir les publications sélectives</a>
+  &nbsp;
+  <a href="touzain_publications.bib" class="btn btn-outline-primary">
+  Télécharger la liste complète (BibTeX)</a>
+</p>
+```
+```
+```
