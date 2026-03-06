@@ -2,6 +2,8 @@
 title: "À propos / About"
 ---
 
+*[English version](about-en.qmd)*
+
 ## Recherche
 
 Mes travaux ont pour objet principal de croiser les grandes
@@ -46,8 +48,6 @@ la cybercriminalité (2023). Je suis, à cet égard, directeur scientifique
 de l'encyclopédie JurisClasseur Responsabilité civile et assurance des
 éditions LexisNexis. J'ai un projet d'ouvrage en droit des assurances
 dans la collection Thémis des éditions PUF.
-
-```
 
 ---
 

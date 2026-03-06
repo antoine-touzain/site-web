@@ -1,0 +1,62 @@
+---
+title: "About"
+---
+
+*[Version française](about.qmd)*
+
+## Research
+
+My work sits at the intersection of French private law and contemporary 
+legal challenges, with a particular focus on civil liability, insurance 
+law, environmental law, and digital law.
+
+**Civil law and special contracts.** I study the French law of 
+obligations and special contracts (*contrats spéciaux*), with a focus 
+on ongoing legislative reform. I co-author a biannual case law chronicle 
+on property law (*droit des biens*) in the *Gazette du Palais*. From 
+2024 to 2025, I served as an expert adviser to the French Ministry of 
+Justice on the reform of special contracts.
+
+**Insurance law.** Insurance law is my primary specialization. I serve 
+as scientific director of the *JurisClasseur Responsabilité civile et 
+Assurances* encyclopedia (LexisNexis), one of the leading French legal 
+reference works in this field. My research focuses on emerging risks — 
+climate, pandemic, artificial intelligence, and cyber risks — and their 
+insurability.
+
+**Environmental private law.** I work on corporate due diligence 
+obligations (*devoir de vigilance*) under French and European law, 
+climate liability, and the legal status of natural commons (*communs 
+naturels*).
+
+**Digital law.** I research AI liability, cybersecurity, and the 
+regulation of digital infrastructures, including through an ongoing 
+contribution to the *JurisClasseur* encyclopedia on digital risks in 
+insurance law.
+
+---
+
+## Collective research
+
+I have organized several colloquia and edited collective volumes on 
+civil law, insurance law, and environmental private law. I am a member 
+of two interdisciplinary research groups: one on low-tech ; the other on the insurability of coastal risks (led by Caroline Rufin-Soler).
+
+---
+
+## Academic profile
+
+Antoine Touzain is *professeur agrégé de droit privé* at the Université 
+Rouen Normandie (CUREJ research unit). The title of *professeur agrégé* 
+is awarded through a national competitive examination (*agrégation*) 
+and corresponds to the highest rank in the French academic system, 
+equivalent to a full professorship. He directs the Master 2 in Liability 
+and Insurance Law (DRAD) and the law department of his university.
+
+---
+
+## Contact and collaboration
+
+I welcome invitations to colloquia, collaborative research projects, 
+and exchanges with colleagues working on related topics. Feel free to 
+[get in touch](contact.qmd).
