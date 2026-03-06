@@ -4,31 +4,113 @@ title: "Recherche / Research"
 
 ## Axes de recherche
 
-Mes travaux portent principalement sur quatre domaines :
+Mes travaux portent principalement sur cinq domaines : le droit civil 
+(responsabilité, contrats spéciaux, biens), le droit des affaires, 
+le droit des assurances, le droit privé de l'environnement et le droit 
+du numérique.
 
-- **Droit des contrats spéciaux** : réforme des contrats spéciaux
-- **Droit des assurances** : risques émergents, risques climatiques
-  cyber-risques, catastrophes naturelles
-- **Droit de l'environnement** : responsabilité environnementale, 
-  devoir de vigilance, communs naturels
-- **Droit du numérique** : intelligence artificielle, cyber-risques, 
-  régulation algorithmique
+---
 
 ## Travaux en cours
 
 **Manuel de droit des contrats spéciaux** (avec V. Forti), 
-LGDJ, Lextenso, à paraître 2026.
+Lextenso, LGDJ, à paraître 2026.
+
+**Fascicule JurisClasseur sur les risques numériques en droit 
+des assurances** (avec S. Merabet), à paraître.
 
 **Article sur le nouveau régime d'assurance obligatoire des émeutes** 
 (art. 171 de la loi de finances 2026), *Lexbase CRI*, à paraître.
 
-**Fascicule JurisClasseur sur les risques numériques en droit 
-des assurances**, en cours de finalisation.
+---
 
-## Publications
+## Publications sélectives
+
+### Ouvrages et directions
+
+- *Droit des contrats spéciaux* (avec V. Forti), Lextenso, LGDJ, 
+  Manuels, à paraître.
+- *Instruments de crédit et de paiement – Opérations bancaires* 
+  (avec V. Forti), Dalloz, Hypercours, 2e éd. 2025 ; 1re éd. 2023, 
+  328 p.
+- *Les métamorphoses du droit civil* (co-dir. avec L. Leveneur et 
+  C.-M. Péglion-Zika), Éditions Panthéon-Assas, 2024, 225 p.
+- *Les communs (naturels et artificiels)* (ouvrage collectif), 
+  Mare & Martin, à paraître.
+- *La consignation*, Éditions Panthéon-Assas, 2021, 616 p.
+- *Le droit des obligations en cas pratiques* (avec N. Jeanne), 
+  Dalloz, Réussir !, 6e éd. 2025, 460 p.
+- S. Guinchard et T. Debard (dir.), *Lexique des termes juridiques*, 
+  Dalloz, 33e éd. 2025 ; 32e éd. 2024.
+
+---
+
+### Droit civil
+
+- « Réformer (vraiment) le droit des avant-contrats dans le Code 
+  civil » (avec M. Cormier), *Rev. dr. Assas*, n° 30, nov. 2025, 
+  à paraître.
+- « L'exigence de bonne foi, outil au service du juste ? », 
+  *Revue de philosophie du droit*, n° 3, avril 2025, p. 83 s.
+- « Chronique de droit des biens » (avec J. Dubarry), 
+  *Gaz. Pal.*, publication bi-annuelle.
+- « Rétrospective : Pierre Catala, "La transformation du patrimoine 
+  dans le droit civil moderne" », *Rev. dr. Assas*, n° 26, 
+  oct. 2023, p. 170 s.
+
+---
+
+### Droit des affaires
+
+- *Instruments de crédit et de paiement – Opérations bancaires* 
+  (avec V. Forti), Dalloz, Hypercours, 2e éd. 2025 ; 1re éd. 2023, 
+  328 p.
+- « L'avenir du droit pénal monétaire », in *Mélanges offerts à 
+  Philippe Lauvaux*, Éditions Panthéon-Assas, 2021, p. 1025 s.
+- « La sanction civile », in A. Casado et F. Safi (dir.), 
+  *L'entreprise face aux défis environnementaux*, IRJS, 2022, 
+  p. 133 s.
+- Commentaires de l'actualité en matière de vigilance des sociétés 
+  (avec J.-B. Barbièri), 2023-2026.
+
+---
+
+### Droit des assurances
+
+- V° « Risques émergents – Risques climatiques et pandémiques », 
+  *JurisClasseur Responsabilité civile et Assurances*, 
+  Fasc. 507-10, 2024.
+- « Le formalisme en droit des assurances », *Rev. dr. Assas*, 
+  n° 25, 2023, p. 131 s.
+- « L'article 1964 du Code civil : retour vers le futur ? », 
+  *bjda.fr*, 2022, n° 81.
+
+---
+
+### Droit privé de l'environnement
+
+- « La responsabilité du fait des produits défectueux et le droit 
+  de l'environnement », in V. Forti et J. Knetsch (dir.), 
+  *La nouvelle responsabilité du fait des produits défectueux*, 
+  Dalloz, Thèmes & Commentaires, à paraître 2026.
+- « Rapport de synthèse », in G. Drouot et A. Zabalza (dir.), 
+  *Quel(s) statut(s) pour les biens communs ?*, Dalloz, 
+  Thèmes & Commentaires, 2024, p. 145 s.
+- « L'efficacité de la responsabilité civile en matière de 
+  réparation du préjudice écologique », *BJDA*, n° 95, 2024.
+
+---
+
+### Droit du numérique
+
+- « Risques émergents : risques numériques » (avec S. Merabet), 
+  *JurisClasseur Responsabilité civile et Assurances*, à paraître.
+- « L'avènement de l'intelligence artificielle », in L. Leveneur, 
+  C.-M. Péglion-Zika et A. Touzain (dir.), *Vingt ans de droit 
+  civil*, Éditions Panthéon-Assas, 2024.
+
+---
 ```{=html}
-<p><a href="cv.qmd" class="btn btn-outline-primary">
-Voir le CV complet</a></p>
+<p><a href="touzain_publications.bib" class="btn btn-outline-primary">
+Télécharger la liste complète (BibTeX)</a></p>
 ```
-
-*La liste complète des publications est disponible dans le CV.*
