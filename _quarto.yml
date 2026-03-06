@@ -10,9 +10,9 @@ website:
       - href: index.qmd
         text: Accueil
       - href: about.qmd
-        text: À propos
+        text: À propos / About
       - href: research.qmd
-        text: Recherche
+        text: Recherche / Research
       - href: teaching.qmd
         text: Pédagogie
       - href: media.qmd
