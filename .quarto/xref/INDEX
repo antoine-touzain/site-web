@@ -16,5 +16,11 @@
   },
   "teaching.qmd": {
     "teaching.html": "2d275856"
+  },
+  "media.qmd": {
+    "media.html": "27231da1"
+  },
+  "news.qmd": {
+    "news.html": "9899b9b0"
   }
 }
