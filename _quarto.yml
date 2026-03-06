@@ -12,7 +12,7 @@ website:
       - href: about.qmd
         text: À propos / About
       - href: research.qmd
-        text: Recherche / Research
+        text: Recherche
       - href: teaching.qmd
         text: Pédagogie
       - href: media.qmd
