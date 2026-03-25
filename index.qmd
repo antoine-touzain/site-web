@@ -10,7 +10,10 @@ about:
       href: mailto:antoine.touzain@univ-rouen.fr
     - icon: mortarboard
       text: ORCID
-      href: https://orcid.org/ 	0009-0009-6291-6720
+      href: https://orcid.org/0009-0009-6291-6720
+    - icon: journal-bookmark
+      text: HAL
+      href: https://hal.science/search/index/?q=antoine-touzain&rows=30
 ---
 
 Professeur agrégé de droit privé à l'Université Rouen Normandie, 

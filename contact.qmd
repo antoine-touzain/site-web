@@ -26,4 +26,4 @@ Faculté de droit, Université Rouen Normandie
 ## Identifiants académiques
 
 - [ORCID](https://orcid.org/0009-0009-6291-6720)
-- [HAL](https://hal.science/search/index/?q=*&authIdHal_s=antoine-touzain)
+- [HAL](https://hal.science/search/index/?q=antoine-touzain&rows=30)
