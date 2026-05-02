@@ -2,7 +2,7 @@
 title: "L'exigence de bonne foi, outil au service du juste ?"
 date: 2025-04-01
 categories: [Droit civil, Philosophie du droit]
-description: "Cet article interroge la fonction de la bonne foi en droit des contrats dans une perspective philosophique : la bonne foi est-elle un outil au service du juste ? 
+description: "Cet article interroge la fonction de la bonne foi en droit des contrats dans une perspective philosophique : la bonne foi est-elle un outil au service du juste ?"
 ---
 
 ## Référence
