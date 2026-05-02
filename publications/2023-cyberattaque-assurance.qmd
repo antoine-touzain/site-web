@@ -1,0 +1,20 @@
+---
+title: "L'assurance des risques de cyberattaque est (légalement) née !"
+date: 2023-02-01
+categories: [Droit des assurances, Droit du numérique]
+description: "Note sur la loi n° 2023-22 du 24 janvier 2023 d'orientation et de programmation du ministère de l'Intérieur, relative à l'assurance des cyber-rançons."
+---
+
+## Référence
+
+« L'assurance des risques de cyberattaque est (légalement) née ! »,
+note sous L. n° 2023-22 du 24 janv. 2023,
+*bjda.fr* 2023, n° 85.
+
+## Résumé
+
+La loi du 24 janvier 2023 introduit un cadre légal pour la couverture assurantielle des cyber-rançons, en subordonnant le versement d'une indemnité par l'assureur au dépôt d'une plainte par la victime dans un délai de soixante-douze heures. Sont analysées la portée du dispositif (champ d'application aux cyber-rançons stricto sensu, conditions de mise en œuvre, articulation avec les autres garanties cyber), ses justifications (lutte contre l'opacité du marché des rançons, traçabilité judiciaire) et ses limites (effet incitatif possiblement contradictoire, périmètre restreint, articulation avec les politiques publiques de sécurité numérique).
+
+## Mots-clés
+
+Cyberattaque — Cyber-rançon — Loi n° 2023-22 — Plainte — Délai de soixante-douze heures — Risque cyber — Assurance

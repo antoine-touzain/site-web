@@ -1,0 +1,19 @@
+---
+title: "D. E. T. Awesso, L'intelligence artificielle et l'assurance des risques environnementaux en Afrique"
+date: 2023-10-01
+categories: [Droit des assurances, Droit privé de l'environnement, Recension]
+description: "Recension de la thèse de D. E. T. Awesso sur l'IA et l'assurance des risques environnementaux en Afrique."
+---
+
+## Référence
+
+« D. E. T. Awesso, *L'intelligence artificielle et l'assurance des risques environnementaux en Afrique* »,
+*bjda.fr* 2023, n° 89.
+
+## Résumé
+
+Recension de la thèse de doctorat soutenue par D. E. T. Awesso à l'Université de Côte d'Azur, consacrée à l'apport de l'intelligence artificielle à la couverture assurantielle des risques environnementaux dans le contexte africain. Sont signalés les principaux apports, en particulier sur l'identification des spécificités du risque environnemental africain et les usages possibles de l'IA pour développer des produits paramétriques adaptés.
+
+## Mots-clés
+
+Intelligence artificielle — Risques environnementaux — Afrique — Assurance paramétrique — Recension — Thèse

@@ -1,0 +1,22 @@
+---
+title: "Les perspectives liées à l'intelligence artificielle"
+date: 2023-09-01
+categories: [Droit des assurances, Droit du numérique]
+description: "Contribution sur les perspectives ouvertes par l'intelligence artificielle pour le droit des assurances, dans le cadre du colloque de Nantes Université (mai 2023)."
+---
+
+## Référence
+
+« Les perspectives liées à l'intelligence artificielle »,
+in V. Nicolas (dir.), *Perspectives du droit des assurances (au quart du XXIe siècle)*,
+*BJDA* n° 88, sept. 2023, n° 8.
+
+Colloque à Nantes Université, 16 mai 2023.
+
+## Résumé
+
+Sont examinées les perspectives ouvertes par le développement de l'intelligence artificielle pour le droit des assurances, tant du côté de l'assureur (modèles tarifaires fondés sur l'IA, gestion algorithmique des sinistres, détection de fraude, segmentation et risque de discrimination) que de l'assuré (sélection des risques, transparence des décisions automatisées). L'analyse s'inscrit dans le cadre normatif émergent (futur règlement IA européen, application du RGPD, exigences ACPR/EIOPA), et identifie les zones de tension entre l'efficacité actuarielle et la protection des droits fondamentaux (notamment droit à l'explication, non-discrimination, vie privée). Sont également ébauchés les enjeux de l'IA pour la couverture des risques numériques eux-mêmes.
+
+## Mots-clés
+
+Intelligence artificielle — Droit des assurances — Tarification — Discrimination — RGPD — Règlement IA — Décision automatisée

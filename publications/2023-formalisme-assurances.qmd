@@ -1,0 +1,19 @@
+---
+title: "Le formalisme en droit des assurances"
+date: 2023-06-01
+categories: [Droit des assurances]
+description: "Étude du rôle et de la portée du formalisme en droit des assurances, entre exigence de protection et facteur de complexité."
+---
+
+## Référence
+
+« Le formalisme en droit des assurances »,
+*Rev. dr. Assas*, n° 25, 2023, p. 131 s.
+
+## Résumé
+
+Le formalisme imprègne le droit des assurances à un degré rare en droit privé, à raison de l'asymétrie d'information entre assureur et assuré et de la nature aléatoire de l'opération. L'étude distingue les formes du formalisme à l'œuvre : formalisme contractuel (exigences de rédaction, mentions obligatoires, clauses formelles et limitées d'exclusion), formalisme informatif (notice, fiches d'information précontractuelle, devoir de conseil) et formalisme procédural (déclaration de sinistre, prescription biennale, exercice des recours). Sont analysées les fonctions du formalisme (protection de l'assuré, sécurisation du contentieux, transparence) ainsi que ses limites (alourdissement, contournement, inadéquation à la diversité des contrats). La conclusion plaide pour un formalisme calibré, attentif à sa fonction protectrice, et débarrassé des survivances purement rituelles.
+
+## Mots-clés
+
+Formalisme — Droit des assurances — Clauses formelles et limitées — Devoir de conseil — Prescription biennale — Information précontractuelle

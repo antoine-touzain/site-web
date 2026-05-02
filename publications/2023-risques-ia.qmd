@@ -1,0 +1,22 @@
+---
+title: "Les risques générés par l'intelligence artificielle"
+date: 2023-02-15
+categories: [Droit des assurances, Droit du numérique]
+description: "Contribution sur les risques générés par l'intelligence artificielle et leur prise en charge assurantielle, dans le cadre du dossier « Assurances et nouvelles technologies »."
+---
+
+## Référence
+
+« Les risques générés par l'intelligence artificielle »,
+in L. Leveneur et A. Touzain (dir.), *Assurances et nouvelles technologies*,
+*RCA*, févr. 2023, dossier, n° 3.
+
+Colloque à l'Université Paris-Panthéon-Assas, 25 nov. 2022.
+
+## Résumé
+
+L'étude des risques générés par l'intelligence artificielle est conduite sous l'angle assurantiel : nature des dommages susceptibles d'être causés (dommages corporels, matériels, immatériels), identification du responsable (concepteur, déployeur, utilisateur), articulation avec les régimes spéciaux de responsabilité (produits défectueux, véhicules autonomes). Sont examinées les difficultés tenant à l'opacité des systèmes (boîte noire), à l'autonomie décisionnelle (chaîne de causalité diluée) et à la diffusion des dommages. Le cadre normatif en cours d'élaboration (proposition de directive sur la responsabilité du fait des produits adaptée à l'IA, projet AILD) est analysé comme une réponse partielle, et les conditions d'assurabilité de ces risques sont discutées.
+
+## Mots-clés
+
+Intelligence artificielle — Responsabilité civile — Produits défectueux — Assurabilité — AILD — Boîte noire — Risques émergents
