@@ -1,0 +1,19 @@
+---
+title: "Le développement de l'assurance du risque cyber : rapport de la Direction générale du Trésor"
+date: 2022-09-01
+categories: [Droit des assurances, Droit du numérique]
+description: "Note de présentation du rapport de la DG Trésor sur le développement de l'assurance du risque cyber."
+---
+
+## Référence
+
+« Le développement de l'assurance du risque cyber : rapport de la Direction générale du Trésor »,
+*bjda.fr* 2022, n° 82.
+
+## Résumé
+
+Présentation et analyse du rapport publié par la Direction générale du Trésor sur le développement du marché français de l'assurance du risque cyber. Sont restituées les recommandations principales (clarification du cadre des cyber-rançons, structuration de l'offre, enjeux statistiques et de mutualisation), et sont anticipées les évolutions législatives qui suivront (loi du 24 janv. 2023 sur la couverture des cyber-rançons).
+
+## Mots-clés
+
+Assurance cyber — Cyberattaque — Cyber-rançon — DG Trésor — Mutualisation — Marché de l'assurance

@@ -1,0 +1,19 @@
+---
+title: "Vers un régime européen de la responsabilité du fait de l'intelligence artificielle"
+date: 2022-09-15
+categories: [Droit du numérique, Responsabilité civile, Droit de l'Union européenne]
+description: "Aperçu des deux propositions de directives présentées par la Commission européenne le 28 septembre 2022 sur la responsabilité civile en matière d'intelligence artificielle."
+---
+
+## Référence
+
+« Vers un régime européen de la responsabilité du fait de l'intelligence artificielle : aperçu des textes adoptés par la Commission le 28 septembre 2022 »,
+*bjda.fr* 2022, n° 82.
+
+## Résumé
+
+Présentation des deux propositions de directives de la Commission européenne du 28 septembre 2022 : la révision de la directive 85/374 sur la responsabilité du fait des produits défectueux (intégrant les logiciels et systèmes d'IA) et la nouvelle directive sur la responsabilité du fait de l'IA (AILD), qui introduit des allègements probatoires (présomption de causalité) au bénéfice de la victime. Sont analysées l'articulation des deux textes, leur portée respective, les difficultés techniques (autonomie, opacité algorithmique) et les enjeux pour le droit français.
+
+## Mots-clés
+
+Intelligence artificielle — Responsabilité civile — AILD — Directive 85/374 — Produits défectueux — Présomption de causalité — Commission européenne

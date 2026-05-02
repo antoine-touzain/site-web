@@ -1,0 +1,22 @@
+---
+title: "La sanction civile"
+date: 2022-06-01
+categories: [Droit civil, Droit privé de l'environnement, Responsabilité civile]
+description: "Étude de la place et des fonctions de la sanction civile dans la régulation des comportements des entreprises face aux défis environnementaux."
+---
+
+## Référence
+
+« La sanction civile »,
+in A. Casado et F. Safi (dir.), *L'entreprise face aux défis environnementaux*,
+IRJS, 2022, p. 133 s.
+
+Colloque à l'Université Paris-Panthéon-Sorbonne, 3 juin 2021.
+
+## Résumé
+
+L'étude examine la place de la sanction civile — entendue comme l'ensemble des conséquences attachées à la violation d'une norme par les juges du droit privé — dans la régulation des comportements environnementaux des entreprises. Sont distinguées les sanctions strictement réparatrices (responsabilité civile, dommages-intérêts) des sanctions à dimension préventive ou punitive (cessation de l'illicite, dommages-intérêts à fonction punitive, peine privée), et est interrogée l'aptitude du droit civil à influencer effectivement les comportements des entreprises au-delà de la seule réparation. Sont également examinés les leviers ouverts par les évolutions récentes (préjudice écologique, devoir de vigilance, projet de réforme de la responsabilité civile prévoyant l'amende civile en matière environnementale).
+
+## Mots-clés
+
+Sanction civile — Entreprise — Environnement — Responsabilité civile — Préjudice écologique — Devoir de vigilance — Amende civile — Peine privée
