@@ -1,0 +1,10 @@
+---
+title: "Publications"
+listing:
+  contents: "*.qmd"
+  sort: "date desc"
+  type: default
+  fields: [date, title, description, categories]
+  exclude:
+    filename: "index.qmd"
+---

@@ -1,0 +1,19 @@
+---
+title: "L'exigence de bonne foi, outil au service du juste ?"
+date: 2025-04-01
+categories: [Droit civil, Philosophie du droit]
+description: "Cet article interroge la fonction de la bonne foi en droit privé à partir d'une perspective philosophique : la bonne foi est-elle un outil de justice ou simplement un standard de comportement ?"
+---
+
+## Référence
+
+« L'exigence de bonne foi, outil au service du juste ? », 
+*Revue de philosophie du droit*, n° 3, avril 2025, p. 83 s.
+
+## Résumé
+
+La bonne foi est le bastion avancé de la justice contractuelle : elle est donc une notion-clé pour apprécier la manière dont les théories de la justice imprègnent le concept de contrat. Cet article propose une analyse historique : la construction du concept de bonne foi, depuis le droit romain, y est rappelée, ainsi que les évolutions depuis 1804 (notamment l'interprétation élargie de l'ancien article 1134, alinéa 3, sous l'influence de la doctrine du solidarisme contractuel), pour envisager finalement une analyse prospective, tant au regard des évolutions numériques (le *smart contract* conduira-t-il à une disparition de l'exigence de bonne foi ?) que des problématiques environnementales (la bonne foi serait-elle un vecteur de protection environnementale par le contrat ?).
+
+## Mots-clés
+
+Bonne foi — Philosophie du droit — Droit des contrats
