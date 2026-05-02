@@ -1,0 +1,21 @@
+---
+title: "Émeutes et assurance : de l'exclusion à la garantie obligatoire"
+date: 2026-03-18
+categories: [Droit des assurances, Catastrophes et risques émergents]
+description: "Analyse critique du nouveau régime de garantie obligatoire des dommages d'émeutes institué par l'article 171 de la loi de finances pour 2026."
+---
+
+## Référence
+
+« Émeutes et assurance : de l'exclusion à la garantie obligatoire »,
+*Lexbase Contrats Responsabilité Immobilier*, 18 mars 2026.
+
+À propos de la loi n° 2026-103 du 19 février 2026, art. 171.
+
+## Résumé
+
+L'article L. 121-8 du Code des assurances rangeait traditionnellement l'émeute parmi les exclusions légales de garantie ; le coût croissant des mouvements sociaux récents (Gilets jaunes, soulèvements consécutifs au décès de Nahel Merzouk, Nouvelle-Calédonie) a conduit à un renversement de perspective, désormais consacré par l'article 171 de la loi de finances pour 2026. Le mécanisme retenu est étudié à l'aune des modèles éprouvés des catastrophes naturelles, technologiques et du terrorisme, dont il s'inspire largement : extension de garantie obligatoire adossée aux contrats préexistants, possibilité de saisine du bureau central de tarification, fonds de mutualisation et garantie de l'État via la CCR. Plusieurs originalités viennent toutefois fragiliser le dispositif. La définition téléologique du risque couvert — limité aux émeutes exprimant une protestation politique ou sociale — est jugée incertaine et porteuse d'une subjectivité que la commission de qualification ne suffira pas à dissiper. La limitation des bénéficiaires, par renvoi maladroit à l'article L. 112-10 du Code des assurances, est tenue pour une malfaçon législative à corriger. La soutenabilité financière du régime, enfin, est questionnée à raison de l'effet inflationniste cumulatif des extensions de garantie obligatoire et de la convergence des facteurs de tension sociale à moyen terme. Le maintien implicite du recours subrogatoire de l'assureur contre l'État est en revanche approuvé.
+
+## Mots-clés
+
+Assurance — Émeutes — Garantie obligatoire — Loi de finances 2026 — Inassurabilité — Mutualisation — Catastrophes naturelles — Bureau central de tarification
