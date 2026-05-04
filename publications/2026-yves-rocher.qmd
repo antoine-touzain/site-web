@@ -1,6 +1,6 @@
 ---
 title: "Yves Rocher, la première pierre de la responsabilité en matière de vigilance"
-date: 2026-04-15
+date: 2026-03-27
 categories: [Devoir de vigilance, Droit des affaires]
 description: "Note sur le premier jugement français retenant la responsabilité d'une société mère pour manquement à son devoir de vigilance (TJ Paris, 12 mars 2026, n° 22/04017)."
 ---
@@ -8,7 +8,7 @@ description: "Note sur le premier jugement français retenant la responsabilité
 ## Référence
 
 « Yves Rocher, la première pierre de la responsabilité en matière de vigilance » (avec J.-B. Barbièri),
-*Dalloz Actualité*, avril 2026,
+*Dalloz Actualité*, 27 mars 2026,
 à propos de TJ Paris, 12 mars 2026, n° 22/04017.
 
 [Lien Dalloz Actualité](https://www.dalloz-actualite.fr/flash/yves-rocher-premiere-pierre-de-responsabilite-en-matiere-de-vigilance)
