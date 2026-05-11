@@ -1,6 +1,6 @@
 ---
 title: "Devoir de vigilance et assurance"
-date: 2026-04-01
+date: 2026-05-31
 categories: [Devoir de vigilance, Droit des assurances, Droit privé de l'environnement]
 description: "Étude de l'assurabilité de la responsabilité encourue pour manquement au devoir de vigilance, contribution aux Variations du préjudice (dir. M.-S. Bondon, PUR, 2026)."
 ---
