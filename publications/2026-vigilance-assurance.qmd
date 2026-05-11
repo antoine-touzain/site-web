@@ -1,0 +1,20 @@
+---
+title: "Devoir de vigilance et assurance"
+date: 2026-04-01
+categories: [Devoir de vigilance, Droit des assurances, Droit privé de l'environnement]
+description: "Étude de l'assurabilité de la responsabilité encourue pour manquement au devoir de vigilance, contribution aux Variations du préjudice (dir. M.-S. Bondon, PUR, 2026)."
+---
+
+## Référence
+
+« Devoir de vigilance et assurance »,
+in M.-S. Bondon (dir.), *Les variations du préjudice*,
+Presses universitaires de Rennes, 2026, p. 185 s.
+
+## Résumé
+
+La question de l'assurabilité de la responsabilité encourue pour manquement au devoir de vigilance est examinée à la lumière de trois obstacles potentiels. Le premier — un défaut d'aléa — est écarté : l'exclusion légale des fautes intentionnelle et dolosive, entendue restrictivement par la Cour de cassation, ne paraît guère pouvoir saisir le manquement au plan de vigilance, dont le lien causal avec le dommage à l'environnement ou aux droits sociaux est en outre fragile. Le deuxième — la non-inclusion dans les polices d'assurance — est plus sérieux : les polices de RC professionnelle des entreprises couvrent en général les seules atteintes « accidentelles » à l'environnement, qualification difficile à retenir pour un manquement à un devoir nommé par la loi ; la voie d'une exclusion conventionnelle expresse, formelle et limitée, est suggérée. Le troisième — l'inassurabilité juridique — est jugé le plus fondamental : la dimension normative et punitive du devoir de vigilance, perceptible dès la loi de 2017 (amende civile censurée) et confirmée par la directive CS3D, milite contre une couverture qui s'apparenterait à l'assurance d'une sanction. Une voie médiane est néanmoins proposée, fondée sur la distinction entre obligation et contribution à la dette : au stade de l'obligation, l'assureur paierait la victime au titre de la fonction réparatrice ; au stade de la contribution, un recours subrogatoire contre la société responsable permettrait de préserver la logique punitive et normative.
+
+## Mots-clés
+
+Devoir de vigilance — Assurance de responsabilité civile — Aléa — Faute intentionnelle — Faute dolosive — Inassurabilité juridique — Fonction punitive — Obligation et contribution à la dette — CSDDD
