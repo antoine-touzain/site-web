@@ -1,6 +1,6 @@
 ---
 title: "La responsabilité du fait des produits défectueux et l'environnement"
-date: 2026-05-15
+date: 2026-05-29
 categories: [Responsabilité civile, Droit privé de l'environnement]
 description: "Étude des incidences environnementales de la directive 2024/2853 sur la responsabilité du fait des produits défectueux, en contexte de recul des engagements verts européens."
 ---
