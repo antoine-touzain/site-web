@@ -1,0 +1,20 @@
+---
+title: "La responsabilité du fait des produits défectueux et l'environnement"
+date: 2026-05-15
+categories: [Responsabilité civile, Droit privé de l'environnement]
+description: "Étude des incidences environnementales de la directive 2024/2853 sur la responsabilité du fait des produits défectueux, en contexte de recul des engagements verts européens."
+---
+
+## Référence
+
+« La responsabilité du fait des produits défectueux et l'environnement »,
+in V. Forti et J. Knetsch (dir.), *La nouvelle responsabilité du fait des produits défectueux*,
+Dalloz, coll. Thèmes & Commentaires, 2026, p. 221 s.
+
+## Résumé
+
+La refonte du régime de responsabilité du fait des produits défectueux opérée par la directive 2024/2853 du 23 octobre 2024 est confrontée aux exigences de la protection environnementale, dans un contexte de recul des engagements verts européens (paquet Omnibus). Les rares dispositions environnementales identifiées dans le texte — soutien limité à l'économie circulaire (notion de modification substantielle du produit) et lutte contre l'obsolescence programmée (prise en compte de la durée de vie attendue, extension de la défectuosité à l'absence de mise à jour logicielle nécessaire) — sont jugées étroites, dans le sillage des analyses critiques d'H. Guiziou. Au-delà du texte, l'angle mort est marqué : l'intégralité du cycle de vie du produit (extraction, fabrication, transport, utilisation, fin de vie) reste hors champ ; l'articulation avec le Green Deal (écoconception, information du consommateur, droit à la réparation) ne suffit pas à combler la lacune, et le droit commun de la responsabilité civile demeure mieux adapté à l'indemnisation du préjudice écologique, notamment à raison de l'inadaptation du délai de forclusion décennal à la latence des dommages environnementaux. Le constat s'aggrave à l'examen des logiques sous-jacentes du texte : promotion d'un marché ouvert dont la régulation effective des opérateurs hors UE est douteuse, et perpétuation d'un axiome croissantiste incompatible avec les approches alternatives (décroissance, *low tech*, économie locale).
+
+## Mots-clés
+
+Directive 2024/2853 — Produits défectueux — Économie circulaire — Modification substantielle — Obsolescence programmée — Mise à jour logicielle — Préjudice écologique — Green Deal — Cycle de vie — Décroissance
