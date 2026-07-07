@@ -1,0 +1,20 @@
+---
+title: "Une clarté pas si totale…"
+date: 2026-07-06
+categories: [Devoir de vigilance, Droit privé de l'environnement, Droit des affaires]
+description: "Note sur la deuxième décision au fond dans l'affaire TotalEnergies, sur l'intégration des risques climatiques et des émissions de scope 3 dans le plan de vigilance (avec J.-B. Barbièri)."
+---
+
+## Référence
+
+« Une clarté pas si totale… » (avec J.-B. Barbièri),
+*Dalloz Actualité*, 6 juillet 2026,
+à propos de TJ Paris, 25 juin 2026, n° 22/03403.
+
+## Résumé
+
+Deuxième décision au fond dans l'affaire TotalEnergies, à la suite de l'infirmation en appel (CA Paris, 18 juin 2024) de l'irrecevabilité prononcée en 2023. Le tribunal juge sans ambiguïté que les risques climatiques doivent être intégrés au plan de vigilance, y compris les émissions de scope 3 (émissions des clients). L'inclusion du climat dans la notion d'environnement au sens de l'article L. 225-102-1 du Code de commerce est appuyée sur les travaux préparatoires, la jurisprudence internationale et la directive CS3D, non sans que certaines des justifications convainquent inégalement. La ligne du jugement La Poste est maintenue quant aux conséquences : injonction de compléter le plan sous six mois, refus d'ordonner des mesures précises, rejet du fondement de l'article L. 225-102-2 du Code de commerce, ce qui limite la portée pratique. Le caractère subsidiaire de l'action fondée sur l'article 1252 du Code civil est également affirmé, ce qui restreint son efficacité propre. Le nouveau critère de l'« influence » exercée par la société sur ses clients, dont on ignore s'il est transposable aux autres risques, est signalé comme porteur d'incertitudes.
+
+## Mots-clés
+
+Devoir de vigilance — TotalEnergies — Risques climatiques — Émissions de scope 3 — Plan de vigilance — Article L. 225-102-1 — Article L. 225-102-2 — Article 1252 — Cartographie des risques — Directive CS3D
