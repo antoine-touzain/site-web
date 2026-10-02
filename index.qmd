@@ -38,7 +38,7 @@ de la Justice pour la réforme du droit des contrats spéciaux
 
 — Co-animation d'une conférence sur le non-droit à Rouen (1er octobre 2026).
 
-**Septembre 2026** — Parution du numéro d'automne d'*Études normandes*, consacré à la low-tech en Normandie, avec un article grand public sur le droit et la low-tech.
+**Septembre 2026** — Parution du numéro d'automne d'*Études normandes*, consacré à la low-tech en Normandie, avec mon article « Les obstacles juridiques à la low-tech : réflexions à partir d'une étude de cas normande ».
 
 — Animation de la conférence de Denis Cogneau, *Un empire bon marché*, à Rouen (25 septembre 2026).
 
@@ -55,17 +55,5 @@ de la Justice pour la réforme du droit des contrats spéciaux
 **Mai 2026** — Publication de « Devoir de vigilance et assurance », in M.-S. Bondon (dir.), *Les variations du préjudice*, Presses universitaires de Rennes, 2026, p. 185 s.
 
 — Intervention au colloque *Émeutes et assurance* du Master 2 Assurances de l'Université Paris-Panthéon-Assas (26 mai 2026).
-
-**Avril 2026** — Intervention à l'Université populaire de Poissy sur *La cybersécurité*.
-
-**Mars 2026** — Communication au colloque *L'environnement devant les tribunaux* ([Université Paris-Panthéon-Assas](https://www.assas-universite.fr/fr/evenements/lenvironnement-devant-tribunaux-enjeux-juridiques-economiques-regards-croises)).
-
-— Communication au colloque *Musique et droit* ([Université Rouen Normandie](https://curej.univ-rouen.fr/agenda/colloque-musique-et-droit-letat-interprete-et-chef-dorchestre/)).
-
-— Communication au colloque *50 ans du Code des assurances : questions d'actualité* ([Maison du Barreau de Paris](https://ial.univ-lyon3.fr/wp-content/uploads/2026/01/Programme-definitif-1.pdf)).
-
-Participation à la [réunion de lancement de la Fondation MAIF](https://www.linkedin.com/feed/update/urn:li:activity:7436677917885239296/?originTrackingId=nq7jEaE7mh2KB1jgSGgvSA%3D%3D) sur l'assurance immobilière
-en zone côtière,
-projet qui a obtenu un [financement ANR dans le cadre du PEPR IRiMa](https://anr.fr/fr/france-2030/france2030/call/pepr-irima-appel-a-projets-2024/).
 
 [Voir toutes les actualités](news.qmd)
